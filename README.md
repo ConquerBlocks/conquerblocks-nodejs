@@ -7,4 +7,6 @@
 <h4>Material de las clases</h4>
 <ul>
     <li><a target="_blank" href="./01_clases/Clase 01 - Introduccion a NodeJS/NodeJS Clase 01 - Introduccion a NodeJS - Diapositivas.pdf">NodeJS Clase 01 - Introducción</a></li>
+    <li>Clase 02 - Event Loop</li>
+    <li>Clase 03 - Nuestro primer servidor web en NodeJS</li>
 </ul>
