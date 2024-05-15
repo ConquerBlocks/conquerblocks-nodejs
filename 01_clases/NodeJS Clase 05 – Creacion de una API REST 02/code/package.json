@@ -1,0 +1,21 @@
+{
+  "name": "ticketing-system",
+  "version": "1.0.0",
+  "description": "Ticketing system for educational purposes.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=prod node server.js",
+    "dev": "NODE_ENV=dev node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Azaustre (https://youtube.com/carlosazaustre)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "morgan": "^1.10.0"
+  }
+}
