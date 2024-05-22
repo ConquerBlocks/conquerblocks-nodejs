@@ -1,0 +1,8 @@
+POST http://localhost:4001/api/tickets HTTP/1.1
+Content-Type: application/json
+
+{
+  "userId": "865b6daf-7191-4a30-8c05-ccf67a73df56",
+  "title": "Ticket #1",
+  "description": "This is a ticket description"
+}
